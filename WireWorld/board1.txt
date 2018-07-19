@@ -1,0 +1,7 @@
+140 140
+Head 2 4
+Diode 20 20 R
+Clock 40 40 R
+And 50 50 R
+Or 60 60 R
+Xor 70 70 R

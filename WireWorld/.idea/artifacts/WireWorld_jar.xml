@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WireWorld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WireWorld_jar</output-path>
+    <root id="archive" name="WireWorld.jar">
+      <element id="module-output" name="WireWorld" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/jre64/lib/ext/jfxrt.jar" path-in-jar="/" />
+      <element id="file-copy" path="$APPLICATION_HOME_DIR$/jre64/lib/ext/jfxrt.jar" />
+    </root>
+  </artifact>
+</component>

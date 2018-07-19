@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Opis og\IeC {\'o}lny}{3}
+\contentsline {subsection}{\numberline {1.1}Nazwa programu}{3}
+\contentsline {subsection}{\numberline {1.2}Poruszany problem}{3}
+\contentsline {section}{\numberline {2}Opis funkcjonalno\IeC {\'s}ci}{4}
+\contentsline {subsection}{\numberline {2.1}Wymagania funkcjonalne}{4}
+\contentsline {subsection}{\numberline {2.2}Jak korzysta\IeC {\'c} z programu}{4}
+\contentsline {subsection}{\numberline {2.3}Uruchomienie programu}{4}
+\contentsline {section}{\numberline {3}Opis danych wej\IeC {\'s}ciowych i\nobreakspace {}interfejsu}{5}
+\contentsline {subsection}{\numberline {3.1}Struktura pliku wej\IeC {\'s}ciowego}{5}
+\contentsline {subsection}{\numberline {3.2}Przechowywanie danych w programie}{5}
+\contentsline {subsection}{\numberline {3.3}Dane wyj\IeC {\'s}ciowe }{6}
+\contentsline {subsection}{\numberline {3.4}Interfejs graficzny}{6}
+\contentsline {section}{\numberline {4}Komunikaty dla u\IeC {\.z}ytkownika i\nobreakspace {}testowanie}{7}
+\contentsline {subsection}{\numberline {4.1}Przyk\IeC {\l }adowe komunikaty skierowane do u\IeC {\.z}ytkownika}{7}
+\contentsline {subsection}{\numberline {4.2}Og\IeC {\'o}lny przebieg testowania}{7}

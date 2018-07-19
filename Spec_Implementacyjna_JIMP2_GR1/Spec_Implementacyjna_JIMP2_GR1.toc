@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Informacje og\IeC {\'o}lne}{3}
+\contentsline {subsection}{\numberline {1.1}Nazwa programu}{3}
+\contentsline {subsection}{\numberline {1.2}J\IeC {\k e}zyk}{3}
+\contentsline {subsection}{\numberline {1.3}Uruchomienie programu}{3}
+\contentsline {section}{\numberline {2}Diagram pakiet\IeC {\'o}w}{4}
+\contentsline {section}{\numberline {3}Opis pakiet\IeC {\'o}w}{4}
+\contentsline {subsection}{\numberline {3.1}Pakiet \texttt {GUI} }{4}
+\contentsline {subsubsection}{\numberline {3.1.1}Opis pakietu}{4}
+\contentsline {subsubsection}{\numberline {3.1.2}Diagram klas}{5}
+\contentsline {subsubsection}{\numberline {3.1.3}Opis klas}{5}
+\contentsline {subsection}{\numberline {3.2}Pakiet generation-controls}{6}
+\contentsline {subsubsection}{\numberline {3.2.1}\texttt {generation-controls}}{6}
+\contentsline {subsubsection}{\numberline {3.2.2}Diagram klas}{6}
+\contentsline {subsubsection}{\numberline {3.2.3}Opis klas}{7}
+\contentsline {subsection}{\numberline {3.3}Pakiet\texttt {board}}{7}
+\contentsline {subsubsection}{\numberline {3.3.1}Opis pakietu}{7}
+\contentsline {subsubsection}{\numberline {3.3.2}Diagram klas}{8}
+\contentsline {subsubsection}{\numberline {3.3.3}Opis klas}{8}
+\contentsline {section}{\numberline {4}Przechowywanie danych w programie i metoda generacji}{9}
+\contentsline {subsection}{\numberline {4.1}Przechowywanie danych w programie}{9}
+\contentsline {subsection}{\numberline {4.2}Metoda generacji}{10}
+\contentsline {section}{\numberline {5}Wymagania dotycz\IeC {\k a}ce u\IeC {\.z}ytkowania programu}{10}
+\contentsline {section}{\numberline {6}Testowanie}{10}
+\contentsline {subsection}{\numberline {6.1}Konwencja}{10}
+\contentsline {subsection}{\numberline {6.2}Narz\IeC {\k e}dzia}{10}
+\contentsline {section}{\numberline {7}Wersjonowanie}{11}
+\contentsline {section}{\numberline {8}Narz\IeC {\k e}dzia}{11}
